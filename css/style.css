@@ -1,0 +1,36 @@
+html, head, body{
+    background-color: whitesmoke;
+    padding: 35px;
+}
+
+.bacharelCardColor{
+    padding: 15px;
+    background-color: white;
+    border-left: 10px solid darkblue;
+    margin-bottom: 10px;
+}
+.tecnologoCardColor{
+    padding: 15px;
+    background-color: white;
+    border-left: 10px solid darkred;
+    margin-bottom: 10px;
+}
+.textCenter{
+    text-align: center;
+}
+a:link {
+    text-decoration:none;
+    color: black;
+    }
+    a:visited {
+    text-decoration:none;
+    color: black;
+    }
+    a:hover {
+    text-decoration:none;
+    color: black;
+    }
+
+footer{
+    text-align: center;
+}
